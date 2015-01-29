@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: simx.profiler.model
+OpenIDE-Module-Install: simx/profiler/model/Installer.class
+OpenIDE-Module-Localizing-Bundle: simx/profiler/model/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

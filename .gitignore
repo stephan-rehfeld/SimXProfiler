@@ -1,0 +1,11 @@
+/JFreeChart/nbproject/private/
+/JFreeChart/build/
+/simx.profiler.discovery.latency/build/
+/simx.profiler/nbproject/private/
+/simx.profiler.discovery.latency/nbproject/private/
+/simx.profiler.discovery.consistency/build/
+/dist/
+build/
+nbproject/private
+*/build/
+*/nbproject/private/

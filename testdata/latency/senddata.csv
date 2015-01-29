@@ -1,0 +1,7 @@
+sending time;from;to;message type; message id
+0;akka://system/user/testActor1;akka://system/user/testActor1;class test.LoopMessage;1
+2;akka://system/user/testActor1;akka://system/user/testActor2;class test.DataMessage;2
+4;akka://system/user/testActor1;akka://system/user/testActor1;class test.LoopMessage;3
+6;akka://system/user/testActor1;akka://system/user/testActor2;class test.DataMessage;4
+8;akka://system/user/testActor2;akka://system/user/testActor2;class test.LoopMessage;5
+12;akka://system/user/testActor2;akka://system/user/testActor2;class test.LoopMessage;6

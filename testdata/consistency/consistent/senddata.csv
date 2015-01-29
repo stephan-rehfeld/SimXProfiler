@@ -1,0 +1,16 @@
+sending time;from;to;message type; message id
+0;akka://system/user/testActor1;akka://system/user/testActor1;class test.LoopMessage;1
+1;akka://system/user/testActor1;akka://system/user/testActor2;class test.DataMessage;2
+1;akka://system/user/testActor1;akka://system/user/testActor2;class test.DataMessage;3
+1;akka://system/user/testActor1;akka://system/user/testActor2;class test.DataMessage;4
+4;akka://system/user/testActor1;akka://system/user/testActor1;class test.LoopMessage;5
+5;akka://system/user/testActor1;akka://system/user/testActor2;class test.DataMessage;6
+5;akka://system/user/testActor1;akka://system/user/testActor2;class test.DataMessage;7
+5;akka://system/user/testActor1;akka://system/user/testActor2;class test.DataMessage;8
+8;akka://system/user/testActor1;akka://system/user/testActor1;class test.LoopMessage;9
+9;akka://system/user/testActor1;akka://system/user/testActor2;class test.DataMessage;10
+9;akka://system/user/testActor1;akka://system/user/testActor2;class test.DataMessage;11
+9;akka://system/user/testActor1;akka://system/user/testActor2;class test.DataMessage;12
+2;akka://system/user/testActor2;akka://system/user/testActor2;class test.LoopMessage;13
+6;akka://system/user/testActor2;akka://system/user/testActor2;class test.LoopMessage;14
+10;akka://system/user/testActor2;akka://system/user/testActor2;class test.LoopMessage;15

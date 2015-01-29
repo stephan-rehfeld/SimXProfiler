@@ -1,0 +1,7 @@
+start;end;message type;id;sender;receiver
+0;4;class test.LoopMessage;1;akka://system/user/testActor1;akka://system/user/testActor1
+3;4;class test.DataMessage;2;akka://system/user/testActor1;akka://system/user/testActor2
+4;8;class test.LoopMessage;3;akka://system/user/testActor1;akka://system/user/testActor1
+7;8;class test.DataMessage;4;akka://system/user/testActor1;akka://system/user/testActor2
+8;12;class test.LoopMessage;5;akka://system/user/testActor2;akka://system/user/testActor2
+12;16;class test.LoopMessage;5;akka://system/user/testActor2;akka://system/user/testActor2
